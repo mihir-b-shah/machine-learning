@@ -43,7 +43,10 @@ def _knn(X_train, labels, X_test, test_labels, nn_ct):
     model = NearestNeighbors(n_neighbors=nn_ct, algorithm='ball_tree').fit(X_train)
     survived_pred = labels[model.kneighbors(X_test,return_distance=False)]
     gen_labels = np.sum(survived_pred, axis=1)>nn_ct//2
+    print(gen_labels)
+    print(test_labels)
     # add the final error calc.
+    return 1-np.count_nonzero(test_labels==gen_labels)/gen_labels.shape[0]
 
 def run():
     train_frame = pd.read_csv("train.csv")
@@ -55,8 +58,8 @@ def run():
     train_data, labels = preprocess(train_slice, True)
     train_slice_data, slice_labels = preprocess(test_slice, True)
     test_data = preprocess(test_frame, False)
-    
-    _knn(train_data, labels, train_slice_data, slice_labels, 5)
+
+    print(_knn(train_data, labels, train_slice_data, slice_labels, 5))
     
 run()
 
