@@ -1,13 +1,10 @@
-22 21
+19 18
 Looking for the best online courses? Click here and gain or improve digital skills on our eLearning platform. Enroll in the best online courses today!
 You can learn anything. Expert created content and resources for every course and level. Always free.
 A Medium publication sharing concepts, ideas, and codes.
 Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.
 Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, MOOCs in data science, computer science, business, and dozens of other topics.
 is an online learning and teaching marketplace with over 100,000 courses and 24 million students. Learn programming, marketing, data science and more.
-Advance your career with online courses in programming, data science, artificial intelligence, digital marketing, and more. Built with industry leaders.
-Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we’ve taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more.
-Find free online courses, lectures, and videos from the best colleges in the country. Take online classes from schools like Yale, MIT and Stanford.
 Find and study online flashcards and class notes at home or on your phone. Visit StudyBlue today to learn more about how you can share and create flashcards for free!
 brings together the world largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we’re your all-in-one platform for collaborative development.
 Online math classes, advanced math textbooks, math games, and more for high school and middle school students. Find out why our students win so many awards.
@@ -39,6 +36,3 @@ is a place to express yourself, discover yourself, and bond over the stuff you l
 has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you want to share with your friends. 
 Discover recipes, home ideas, style inspiration and other ideas to try.
 Nobody knows politics like POLITICO
-Find the perfect royalty-free image for your next project from the world’s best photo library of creative stock photos, vector art illustrations, and stock photography
-Streaming entertainment service company, which provides subscription service streaming movies and television episodes over the Internet
-Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more
